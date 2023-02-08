@@ -6,3 +6,4 @@ ls -a
 ls -na
 mkdir
 mv
+rm
